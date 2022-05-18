@@ -1,7 +1,5 @@
 ### Hi there 👋, My Name is Chi
 #### Customer Experience Advocate, Operations Guru, Salesforce Wizard
-![Customer Experience Advocate, Operations Guru, Salesforce Wizard](https://imgur.com/KmDRvcg)
-
 I'm trying something new, I'm trying to sell me but having fun, learning something new and taking on a side project outside of the professional world.
 
 Skills: People Manager, CRM, Scrum Certified, Product and Program Manager - heavy on instructing, teaching and certifying employees

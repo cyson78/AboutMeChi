@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Chi
 #### Customer Experience Advocate, Operations Guru, Salesforce Wizard
-![Customer Experience Advocate, Operations Guru, Salesforce Wizard](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Customer Experience Advocate, Operations Guru, Salesforce Wizard](https://imgur.com/KmDRvcg)
 
 I'm trying something new, I'm trying to sell me but having fun, learning something new and taking on a side project outside of the professional world.
 

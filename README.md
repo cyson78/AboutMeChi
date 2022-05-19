@@ -1,4 +1,4 @@
-Hi there 👋, My Name is Chi ٩(｡•́‿•̀｡)۶
+Hi there [<img src='[https://imgur.com/a/iix6fXa]' alt='hello' height='40'>]👋, My Name is Chi ٩(｡•́‿•̀｡)۶
 <br>
 Customer Experience Advocate, Operations Guru, Salesforce Wizard
 <br><br>

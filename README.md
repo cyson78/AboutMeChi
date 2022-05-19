@@ -1,4 +1,5 @@
 <p style="text-align:center"> Hi there! ٩(｡•́‿•̀｡)۶ My Name is Chi!
+<br>
 📫 How to reach me: cyson78@gmail.com | 😄 Pronouns: She/Her | 🗻 Southerner in the West Coast | 🌹 Portland, Oregon 
 <br>
 <br>

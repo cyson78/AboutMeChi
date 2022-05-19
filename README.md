@@ -1,5 +1,10 @@
-Hi there <blockquote class="imgur-embed-pub" lang="en" data-id="a/iix6fXa" data-context="false" ><a href="//imgur.com/a/iix6fXa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>, My Name is Chi ٩(｡•́‿•̀｡)۶
+Hi there! My Name is Chi ٩(｡•́‿•̀｡)۶
 <br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/iix6fXa" data-context="false" >
+<a href="//imgur.com/a/iix6fXa"></a>
+</blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 Customer Experience Advocate, Operations Guru, Salesforce Wizard
 <br><br>
 💻 Skills: Product, Ops & Support People Manager with a side of Customer Experience

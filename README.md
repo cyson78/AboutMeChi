@@ -15,10 +15,10 @@ Customer Experience Advocate, Operations Guru, Salesforce Wizard
 📫 How to reach me: cyson78@gmail.com | 😄 Pronouns: She/Her | 🗻 Southerner in the West Coast | 🌹 Portland, Oregon
 
 👩🏻‍🎓 Education: 
-  🖍️ University of North Texas - Class of 2008 
+  🖍️ University of North Texas - Class of 2008<br> 
   📓 B.A. Speech Pathology/Early Childhood Development
-
-  🖍️ Texas &AM University - Class of 2015 
+  <br><br> 
+  🖍️ Texas &AM University - Class of 2015<br>  
   📓 M.S. Technology & Engineering Management
 
 😎 Personal 😎

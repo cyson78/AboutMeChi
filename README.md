@@ -12,7 +12,7 @@ Customer Experience Advocate, Operations Guru, Salesforce Wizard
 🌱 Currently Learning: How to Put Together THis README & Re-familiarizing myself with HTML/CSS, because CSS is not friendly. 
 <br><br>
 
-  <center>[<img src='11190277344_fa748cbfcd_z.jpg' alt='website' height='300'>](cyson78.dev)</center>
+  <center>[<img src='11190277344_fa748cbfcd_z.jpg' alt='website' height='300' class="center">](cyson78.dev)</center>
 
 🖍️ University of North Texas - Class of 2008 | 📓 B.A. Speech Pathology/Early Childhood Development
 <br>

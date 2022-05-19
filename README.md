@@ -3,12 +3,15 @@
 <body>
 
 Hi there 👋, My Name is Chi ٩(｡•́‿•̀｡)۶
+<br>
 Customer Experience Advocate, Operations Guru, Salesforce Wizard
-
+<br><br>
 💻 Skills: Product, Ops & Support People Manager with a side of Customer Experience
+<br>
 🧙‍♀️ Certified: Certified Scrum Master, 6X Certified Salesforce Consultant/Administrator - Admin, Advanced Admin, Sales, Service, Platform & Field Service 
+<br>
 🌱 Currently Learning: How to Put Together THis README & Re-familiarizing myself with HTML/CSS, because CSS is not friendly. 
-
+<br><br>
 📫 How to reach me: cyson78@gmail.com | 😄 Pronouns: She/Her | 🗻 Southerner in the West Coast | 🌹 Portland, Oregon
 
 <h4>Experience: </h4>

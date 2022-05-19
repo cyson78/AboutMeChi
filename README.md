@@ -1,4 +1,4 @@
-Hi there [<img src='[https://imgur.com/a/iix6fXa]' alt='hello' height='40'>]👋, My Name is Chi ٩(｡•́‿•̀｡)۶
+Hi there <blockquote class="imgur-embed-pub" lang="en" data-id="a/iix6fXa" data-context="false" ><a href="//imgur.com/a/iix6fXa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>, My Name is Chi ٩(｡•́‿•̀｡)۶
 <br>
 Customer Experience Advocate, Operations Guru, Salesforce Wizard
 <br><br>

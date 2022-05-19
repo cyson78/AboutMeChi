@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 Hi there 👋, My Name is Chi ٩(｡•́‿•̀｡)۶
 <br>
 Customer Experience Advocate, Operations Guru, Salesforce Wizard
@@ -23,8 +19,6 @@ Customer Experience Advocate, Operations Guru, Salesforce Wizard
 😎 Personal 😎
 
 [<img src='githubsmicon.png' alt='github' height='40'>](https://github.com/cyson78)  [<img src='linkedinsmicon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chi-son-05757726/)  [<img src='instagramsmicon.png' alt='instagram' height='40'>](https://www.instagram.com/yolkmonster/?hl=en/)  
-  
-</body>
-</html>
+
 
 

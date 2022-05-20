@@ -1,11 +1,8 @@
-<p style="text-align:center"> Hi there! ٩(｡•́‿•̀｡)۶ My Name is Chi!
+Hi there! ٩(｡•́‿•̀｡)۶ My Name is Chi!
+Customer Experience Advocate, Operations Guru, Salesforce Wizard
 <br>
 📫 How to reach me: cyson78@gmail.com | 😄 Pronouns: She/Her | 🗻 Southerner in the West Coast | 🌹 Portland, Oregon 
 <br>
-<br>
-Customer Experience Advocate, Operations Guru, Salesforce Wizard
-<br>
-💻 Skills: Product, Ops & Support People Manager with a side of Customer Experience
 <br>
 🧙‍♀️ Certified: Certified Scrum Master, 6X Certified Salesforce Consultant/Administrator - Admin, Advanced Admin, Sales, Service, Platform & Field Service 
 <br>

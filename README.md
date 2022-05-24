@@ -16,6 +16,6 @@ Customer Experience Advocate, Operations Guru, Salesforce Wizard
 🖍️ Texas &AM University - Class of 2015 | 📓 M.S. Technology & Engineering Management
 
 [<img src='githubsmicon.png' alt='github' height='40'>](https://github.com/cyson78)  [<img src='linkedinsmicon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chi-son-05757726/)  [<img src='instagramsmicon.png' alt='instagram' height='40'>](https://www.instagram.com/yolkmonster/?hl=en/)  
-[<img src='twitter.jpg' alt='tweet' height='40'>]([https://github.com/cyson78](https://twitter.com/chquitabanana)
+[<img src='twitter.jpg' alt='tweet' height='40'>](https://twitter.com/chquitabanana)
 
 

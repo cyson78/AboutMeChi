@@ -6,7 +6,14 @@ Customer Experience Advocate, Operations Guru, Salesforce Wizard
 <br>
 🧙‍♀️ Certified: Certified Scrum Master, 6X Certified Salesforce Consultant/Administrator - Admin, Advanced Admin, Sales, Service, Platform & Field Service 
 <br>
-🌱 Currently Learning: How to Put Together THis README & Re-familiarizing myself with HTML/CSS, because CSS is not friendly. 
+🌱 Currently Learning: 
+<ul>
+  <li>Putting together this README</li>
+  <li>Re-familiarizing myself with GitHub</li>
+  <li>HTML/CSS - to bring my github resume back to life</li>
+  <li>Tackling Javascript</li>
+  <li>Playing around with my Tesla Light Show</li>
+</ul> 
 <br><br>
 
 <img src="11190277344_fa748cbfcd_z.jpg" alt="vader" class="center">

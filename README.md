@@ -17,11 +17,15 @@ Customer Experience Advocate, Operations Guru, Salesforce Wizard
 <br><br>
 
 <img src="11190277344_fa748cbfcd_z.jpg" alt="vader" class="center">
-
+Education: 
 🖍️ University of North Texas - Class of 2008 | 📓 B.A. Speech Pathology/Early Childhood Development
 <br>
 🖍️ Texas &AM University - Class of 2015 | 📓 M.S. Technology & Engineering Management
 
+Certification: 
+<img src="CSM.png" alt="Certified Scrum Master">
+
+Social Media: 
 [<img src='githubsmicon.png' alt='github' height='40'>](https://github.com/cyson78)  [<img src='linkedinsmicon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chi-son-05757726/)  [<img src='instagramsmicon.png' alt='instagram' height='40'>](https://www.instagram.com/yolkmonster/?hl=en/) [<img src='twitter.jpg' alt='tweet' height='40'>](https://twitter.com/chquitabanana)
 
 
